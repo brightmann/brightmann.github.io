@@ -1,8 +1,0 @@
----
-layout: post
-title: 你好
-date: 2025-11-16T19:51:00
-tags: [life]
----
-
-你好。很高兴见到你。
