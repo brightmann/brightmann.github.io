@@ -1,0 +1,9 @@
+---
+layout: post
+title: 打靶归来
+date: 2026-04-13T19:45:00
+tags: [life]
+---
+
+<iframe width="315" height="576" src="https://www.youtube.com/embed/DCuklDuxbnc" title="日落西山红霞飞，战士打靶把营归，把营归！#红歌唱起来#传播正能量#打靶归来" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
